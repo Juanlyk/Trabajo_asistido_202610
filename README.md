@@ -16,4 +16,4 @@ imagen simple:
 
 IMAGEN SIMPLE #2:
 
-![Texto][https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThAOmG4X1nyCAew2XZ15N5P7otT3Al2rxFNA&s]
+![Texto](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThAOmG4X1nyCAew2XZ15N5P7otT3Al2rxFNA&s)
