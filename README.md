@@ -12,4 +12,4 @@ Colombia gana hoy contra Croacia.
 
 imagen simple:
 
-![Texto alternativo](carita.jpg)
+![AAAAAAAAAAAAAAAMOQMWOMDQ](carita.jpg)
