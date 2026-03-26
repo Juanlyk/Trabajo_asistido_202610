@@ -9,3 +9,7 @@ Colombia gana hoy contra Croacia.
 #### Nivel 4 (H4)
 ##### Nivel 5 (H5)
 ###### Nivel 6 (H6)
+
+imagen simple:
+
+![Texto alternativo](carita.jpg)
